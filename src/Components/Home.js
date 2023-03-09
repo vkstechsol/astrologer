@@ -143,7 +143,7 @@ export default function Home() {
 
                
      
-<img src="/img/Astoamit.jpg" alt="" className="container" height="470px"  />
+<img src="./img/Astoamit.jpg" alt="" className="container" height="470px"  />
 
  </div>
 
